@@ -10,7 +10,7 @@
     category: "Pizza",
     price: 8.99,
     description: "Classic cheese and tomato pizza with basil.",
-    image: "./images/margherita.jpg",
+    image: "./mages/margherita.jpg",
   },
   {
     id: "p2",
@@ -18,7 +18,7 @@
     category: "Pizza",
     price: 9.99,
     description: "Topped with pepperoni slices and mozzarella cheese.",
-    image: "./images/pepperoni.jpg",
+    image: "./mages/pepperoni.jpg",
   },
   {
     id: "p3",
@@ -26,7 +26,7 @@
     category: "Pizza",
     price: 10.5,
     description: "Smoky BBQ chicken with onions and cheese.",
-    image: "./images/bbq_pizza.png",
+    image: "./mages/bbq_pizza.png",
   },
   {
     id: "p4",
@@ -34,7 +34,7 @@
     category: "Pizza",
     price: 8.5,
     description: "Loaded with bell peppers, olives, and mushrooms.",
-    image: "./images/veggie_delight.jpg",
+    image: "./mages/veggie_delight.jpg",
   },
   {
     id: "p5",
@@ -42,7 +42,7 @@
     category: "Pizza",
     price: 9.75,
     description: "Blend of mozzarella, cheddar, parmesan, and gouda.",
-    image: "./images/four_cheese.jpg",
+    image: "./mages/four_cheese.jpg",
   },
   {
     id: "p6",
@@ -50,7 +50,7 @@
     category: "Pizza",
     price: 9.25,
     description: "Indian twist with marinated paneer cubes.",
-    image: "./images/panner_tikka_pizza.png",
+    image: "./mages/panner_tikka_pizza.png",
   },
   {
     id: "p7",
@@ -58,7 +58,7 @@
     category: "Pizza",
     price: 8.75,
     description: "Cheesy pizza topped with mushrooms and herbs.",
-    image: "./images/mushroom.jpg",
+    image: "./mages/mushroom.jpg",
   },
   {
     id: "p8",
@@ -66,7 +66,7 @@
     category: "Pizza",
     price: 10.99,
     description: "Spicy chicken chunks with Peri Peri sauce.",
-    image: "./images/peri_peri_chicken.jpg",
+    image: "./mages/peri_peri_chicken.jpg",
   },
   {
     id: "p9",
@@ -74,7 +74,7 @@
     category: "Pizza",
     price: 9.25,
     description: "Ham, pineapple, and cheese combo.",
-    image: "./images/hawaiian.jpg",
+    image: "./mages/hawaiian.jpg",
   },
   {
     id: "p10",
@@ -82,7 +82,7 @@
     category: "Pizza",
     price: 8.75,
     description: "Sweet corn, cheese, and a dash of oregano.",
-    image: "./images/cheesy_corn.jpg",
+    image: "./mages/cheesy_corn.jpg",
   },
 
   // 🍔 BURGERS
@@ -92,7 +92,7 @@
     category: "Burger",
     price: 7.5,
     description: "Juicy grilled beef patty with lettuce and cheese.",
-    image: "./images/classic_beef.jpg",
+    image: "./mages/classic_beef.jpg",
   },
   {
     id: "b2",
@@ -100,7 +100,7 @@
     category: "Burger",
     price: 6.99,
     description: "Crispy veggie patty with cheese and mayo.",
-    image: "./images/veggie_burger.png",
+    image: "./mages/veggie_burger.png",
   },
   {
     id: "b3",
@@ -108,7 +108,7 @@
     category: "Burger",
     price: 7.99,
     description: "Crispy fried chicken fillet with spicy mayo.",
-    image: "./images/chicken_zinger.png",
+    image: "./mages/chicken_zinger.png",
   },
   {
     id: "b4",
@@ -116,7 +116,7 @@
     category: "Burger",
     price: 8.25,
     description: "Two layers of cheesy beef patties.",
-    image: "./images/cheese_burst.jpg",
+    image: "./mages/cheese_burst.jpg",
   },
   {
     id: "b5",
@@ -124,7 +124,7 @@
     category: "Burger",
     price: 6.75,
     description: "Soft bun with spiced paneer filling.",
-    image: "./images/paneer.png",
+    image: "./mages/paneer.png",
   },
   {
     id: "b6",
@@ -132,7 +132,7 @@
     category: "Burger",
     price: 8.0,
     description: "Smoky BBQ chicken patty with lettuce.",
-    image: "./images/bbq_chicken_burger.png",
+    image: "./mages/bbq_chicken_burger.png",
   },
   {
     id: "b7",
@@ -140,7 +140,7 @@
     category: "Burger",
     price: 7.5,
     description: "Fried fish fillet with tartar sauce.",
-    image: "./images/crisp_fish_burger.png",
+    image: "./mages/crisp_fish_burger.png",
   },
   {
     id: "b8",
@@ -148,7 +148,7 @@
     category: "Burger",
     price: 7.99,
     description: "Beef patty with sautéed mushrooms and melted cheese.",
-    image: "./images/mushroom_melt_burger.png",
+    image: "./mages/mushroom_melt_burger.png",
   },
   {
     id: "b9",
@@ -156,7 +156,7 @@
     category: "Burger",
     price: 6.5,
     description: "Veggie patty with jalapeños and chipotle sauce.",
-    image: "./images/veggie_supreme.png",
+    image: "./mages/veggie_supreme.png",
   },
   {
     id: "b10",
@@ -164,7 +164,7 @@
     category: "Burger",
     price: 7.75,
     description: "Stuffed with triple-layer cheese and mayo.",
-    image: "./images/cheese_blast.png",
+    image: "./mages/cheese_blast.png",
   },
 
   // 🍝 PASTAS
@@ -174,7 +174,7 @@
     category: "Pasta",
     price: 8.5,
     description: "Creamy white sauce pasta with mushrooms.",
-    image: "./images/fettuccine_alfredo.jpg",
+    image: "./mages/fettuccine_alfredo.jpg",
   },
   {
     id: "pa2",
@@ -182,7 +182,7 @@
     category: "Pasta",
     price: 8.0,
     description: "Spicy red sauce pasta with olives and herbs.",
-    image: "./images/penne_arrabbiata.jpg",
+    image: "./mages/penne_arrabbiata.jpg",
   },
   {
     id: "pa3",
@@ -190,7 +190,7 @@
     category: "Pasta",
     price: 7.5,
     description: "Cheesy baked pasta topped with breadcrumbs.",
-    image: "./images/mac_and_cheese.jpg",
+    image: "./mages/mac_and_cheese.jpg",
   },
   {
     id: "pa4",
@@ -198,7 +198,7 @@
     category: "Pasta",
     price: 8.25,
     description: "Creamy pasta with bacon and parmesan.",
-    image: "./images/pasta_carbonara.png",
+    image: "./mages/pasta_carbonara.png",
   },
   {
     id: "pa5",
@@ -206,7 +206,7 @@
     category: "Pasta",
     price: 8.0,
     description: "Healthy pasta with spinach and ricotta cheese.",
-    image: "./images/spinach_riccotta.png",
+    image: "./mages/spinach_riccotta.png",
   },
   {
     id: "pa6",
@@ -214,7 +214,7 @@
     category: "Pasta",
     price: 9.0,
     description: "Grilled chicken pasta tossed in pesto sauce.",
-    image: "./images/chicken_pesto.png",
+    image: "./mages/chicken_pesto.png",
   },
   {
     id: "pa7",
@@ -222,7 +222,7 @@
     category: "Pasta",
     price: 10.25,
     description: "Pasta with shrimp, mussels, and garlic sauce.",
-    image: "./images/seafood_pasta.png",
+    image: "./mages/seafood_pasta.png",
   },
   {
     id: "pa8",
@@ -230,7 +230,7 @@
     category: "Pasta",
     price: 8.0,
     description: "Loaded with colorful veggies and herbs.",
-    image: "./images/veggie_primavera_pasta.png",
+    image: "./mages/veggie_primavera_pasta.png",
   },// 🍛 INDIAN DISHES
 {
   id: "in1",
@@ -238,7 +238,7 @@
   category: "Indian",
   price: 10.5,
   description: "Creamy tomato-based curry with tender chicken pieces.",
-  image: "./images/butter_chicken.png",
+  image: "./mages/butter_chicken.png",
 },
 {
   id: "in2",
@@ -246,7 +246,7 @@
   category: "Indian",
   price: 9.5,
   description: "Soft paneer cubes in rich buttery tomato gravy.",
-  image: "./images/paneer_butter_masala.png",
+  image: "./mages/paneer_butter_masala.png",
 },
 {
   id: "in3",
@@ -254,7 +254,7 @@
   category: "Indian",
   price: 10.75,
   description: "Aromatic rice cooked with spiced chicken and herbs.",
-  image: "./images/chicken_biriyani.png",
+  image: "./mages/chicken_biriyani.png",
 },
 {
   id: "in4",
@@ -262,7 +262,7 @@
   category: "Indian",
   price: 9.25,
   description: "Fragrant basmati rice cooked with vegetables and spices.",
-  image: "./images/veg_biriyani.png",
+  image: "./mages/veg_biriyani.png",
 },
 {
   id: "in5",
@@ -270,7 +270,7 @@
   category: "Indian",
   price: 6.5,
   description: "Crispy rice crepe filled with spiced potato mix.",
-  image: "./images/masala_dosa.png",
+  image: "./mages/masala_dosa.png",
 },
 {
   id: "in6",
@@ -278,7 +278,7 @@
   category: "Indian",
   price: 7.0,
   description: "Spicy chickpeas curry served with fried bread.",
-  image: "./images/chole_bhature.png",
+  image: "./mages/chole_bhature.png",
 },
 {
   id: "in7",
@@ -286,7 +286,7 @@
   category: "Indian",
   price: 9.0,
   description: "Cottage cheese cooked in rich spinach gravy.",
-  image: "./images/palak_paneer.png",
+  image: "./mages/palak_paneer.png",
 },
 {
   id: "in8",
@@ -294,7 +294,7 @@
   category: "Indian",
   price: 7.25,
   description: "Yellow lentils tempered with ghee, garlic, and cumin.",
-  image: "./images/dal_tadka.png",
+  image: "./mages/dal_tadka.png",
 },
 {
   id: "in9",
@@ -302,7 +302,7 @@
   category: "Indian",
   price: 6.75,
   description: "Mashed vegetable curry served with buttered bread rolls.",
-  image: "./images/pav_bhaji.png",
+  image: "./mages/pav_bhaji.png",
 },
 {
   id: "in10",
@@ -310,7 +310,7 @@
   category: "Indian",
   price: 11.0,
   description: "Spicy layered rice with marinated meat and fried onions.",
-  image: "./images/hyderabadi_biriyani.png",
+  image: "./mages/hyderabadi_biriyani.png",
 },
 
 // 🍜 ASIAN / CHINESE
@@ -320,7 +320,7 @@
   category: "Asian",
   price: 7.0,
   description: "Stir-fried noodles tossed with fresh vegetables.",
-  image: "./images/veg_hakka.png",
+  image: "./mages/veg_hakka.png",
 },
 {
   id: "as2",
@@ -328,7 +328,7 @@
   category: "Asian",
   price: 7.5,
   description: "Fried rice with chicken, eggs, and veggies.",
-  image: "./images/chicken_fried_rice.png",
+  image: "./mages/chicken_fried_rice.png",
 },
 {
   id: "as3",
@@ -336,7 +336,7 @@
   category: "Asian",
   price: 7.25,
   description: "Fried veggie balls cooked in spicy soy sauce.",
-  image: "./images/veg_manchurian.png",
+  image: "./mages/veg_manchurian.png",
 },
 {
   id: "as4",
@@ -344,7 +344,7 @@
   category: "Asian",
   price: 7.75,
   description: "Spicy fried rice with Schezwan sauce and veggies.",
-  image: "./images/schezwan_fried_rice.png",
+  image: "./mages/schezwan_fried_rice.png",
 },
 {
   id: "as5",
@@ -352,7 +352,7 @@
   category: "Asian",
   price: 8.0,
   description: "Fried chicken cubes tossed in spicy chili sauce.",
-  image: "./images/chili_chicken.png",
+  image: "./mages/chili_chicken.png",
 },
 {
   id: "as6",
@@ -360,7 +360,7 @@
   category: "Asian",
   price: 6.5,
   description: "Crispy rolls stuffed with veggies and noodles.",
-  image: "./images/spring_rolls.png",
+  image: "./mages/spring_rolls.png",
 },
 {
   id: "as7",
@@ -368,7 +368,7 @@
   category: "Asian",
   price: 8.5,
   description: "Stir-fried chicken with peanuts and chili sauce.",
-  image: "./images/kung_pao_chicken.png",
+  image: "./mages/kung_pao_chicken.png",
 },
 {
   id: "as8",
@@ -376,7 +376,7 @@
   category: "Asian",
   price: 6.99,
   description: "Soft dumplings filled with meat or vegetables.",
-  image: "./images/dim_sum.png",
+  image: "./mages/dim_sum.png",
 },
 {
   id: "as9",
@@ -384,7 +384,7 @@
   category: "Asian",
   price: 9.0,
   description: "Coconut curry with vegetables and Thai herbs.",
-  image: "./images/thai_green_curry.png",
+  image: "./mages/thai_green_curry.png",
 },
 {
   id: "as10",
@@ -392,7 +392,7 @@
   category: "Asian",
   price: 8.75,
   description: "Rice noodles with tofu, peanuts, and tamarind sauce.",
-  image: "./images/pad_thai_dish.png",
+  image: "./mages/pad_thai_dish.png",
 },
 
 // 🍰 DESSERTS
@@ -402,7 +402,7 @@
   category: "Dessert",
   price: 4.5,
   description: "Fudgy brownie with melted chocolate chunks.",
-  image: "./images/brownie.png",
+  image: "./mages/brownie.png",
 },
 {
   id: "d2",
@@ -410,7 +410,7 @@
   category: "Dessert",
   price: 5.5,
   description: "Classic New York cheesecake with a biscuit base.",
-  image: "./images/cheesecake.png",
+  image: "./mages/cheesecake.png",
 },
 {
   id: "d3",
@@ -418,7 +418,7 @@
   category: "Dessert",
   price: 3.5,
   description: "Sweet Indian dessert soaked in sugar syrup.",
-  image: "./images/gulab_jamun.png",
+  image: "./mages/gulab_jamun.png",
 },
 {
   id: "d4",
@@ -426,7 +426,7 @@
   category: "Dessert",
   price: 5.25,
   description: "Coffee-flavored Italian dessert with cream layers.",
-  image: "./images/tiramisu.png",
+  image: "./mages/tiramisu.png",
 },
 {
   id: "d5",
@@ -434,7 +434,7 @@
   category: "Dessert",
   price: 4.25,
   description: "Scoops of ice cream topped with nuts and syrup.",
-  image: "./images/ice_creame_sundae.png",
+  image: "./mages/ice_creame_sundae.png",
 },
 {
   id: "d6",
@@ -442,7 +442,7 @@
   category: "Dessert",
   price: 4.75,
   description: "Warm pie filled with spiced apple filling.",
-  image: "./images/apple_pie.png",
+  image: "./mages/apple_pie.png",
 },
 {
   id: "d7",
@@ -450,7 +450,7 @@
   category: "Dessert",
   price: 3.75,
   description: "Soft sponge cakes topped with creamy frosting.",
-  image: "./images/cupcakes.png",
+  image: "./mages/cupcakes.png",
 },
 {
   id: "d8",
@@ -458,7 +458,7 @@
   category: "Dessert",
   price: 3.99,
   description: "Creamy vanilla pudding topped with caramel sauce.",
-  image: "./images/pudding_cup.png",
+  image: "./mages/pudding_cup.png",
 },
 {
   id: "d9",
@@ -466,7 +466,7 @@
   category: "Dessert",
   price: 5.0,
   description: "Warm chocolate cake with molten lava center.",
-  image: "./images/choco_lava_cake.png",
+  image: "./mages/choco_lava_cake.png",
 },
 {
   id: "d10",
@@ -474,7 +474,7 @@
   category: "Dessert",
   price: 4.25,
   description: "Mixed fruits in chilled creamy custard.",
-  image: "./images/fruit_custard.png",
+  image: "./mages/fruit_custard.png",
 },
 // ☕ BEVERAGES
 {
@@ -483,7 +483,7 @@
   category: "Beverage",
   price: 4.0,
   description: "Iced coffee blended with cream and chocolate syrup.",
-  image: "./images/cold_coffee.png",
+  image: "./mages/cold_coffee.png",
 },
 {
   id: "bev2",
@@ -491,7 +491,7 @@
   category: "Beverage",
   price: 3.75,
   description: "Hot espresso coffee topped with frothed milk.",
-  image: "./images/cappiccino.png",
+  image: "./mages/cappiccino.png",
 },
 {
   id: "bev3",
@@ -499,7 +499,7 @@
   category: "Beverage",
   price: 3.99,
   description: "Chilled latte served over ice cubes.",
-  image: "./images/iced_latte.png",
+  image: "./mages/iced_latte.png",
 },
 {
   id: "bev4",
@@ -507,7 +507,7 @@
   category: "Beverage",
   price: 4.25,
   description: "Creamy mango yogurt smoothie with honey.",
-  image: "./images/mango_smoothie.png",
+  image: "./mages/mango_smoothie.png",
 },
 {
   id: "bev5",
@@ -515,7 +515,7 @@
   category: "Beverage",
   price: 3.5,
   description: "Refreshing lemon tea served chilled with mint.",
-  image: "./images/lemon_iced_tea.jpg",
+  image: "./mages/lemon_iced_tea.jpg",
 },
 {
   id: "bev6",
@@ -523,7 +523,7 @@
   category: "Beverage",
   price: 4.25,
   description: "Sweet milkshake blended with strawberries and cream.",
-  image: "./images/strawberry_shake.png",
+  image: "./mages/strawberry_shake.png",
 },
 {
   id: "bev7",
@@ -531,7 +531,7 @@
   category: "Beverage",
   price: 2.5,
   description: "Hot antioxidant-rich green tea.",
-  image: "./images/green_tea.jpg",
+  image: "./mages/green_tea.jpg",
 },
 {
   id: "bev8",
@@ -539,7 +539,7 @@
   category: "Beverage",
   price: 4.5,
   description: "Rich chocolate shake topped with whipped cream.",
-  image: "./images/chocolate_milshake.jpg",
+  image: "./mages/chocolate_milshake.jpg",
 },
 {
   id: "bev9",
@@ -547,7 +547,7 @@
   category: "Beverage",
   price: 4.0,
   description: "Sparkling lime drink with mint leaves.",
-  image: "./images/virgin_mojito.jpg",
+  image: "./mages/virgin_mojito.jpg",
 },
 {
   id: "bev10",
@@ -555,7 +555,7 @@
   category: "Beverage",
   price: 3.75,
   description: "Freshly squeezed orange juice.",
-  image: "./images/orange_juice.png",
+  image: "./mages/orange_juice.png",
 },
 
 // 🥞 BREAKFAST
@@ -565,7 +565,7 @@
   category: "Breakfast",
   price: 6.0,
   description: "Fluffy pancakes stacked with maple syrup and butter.",
-  image: "./images/pancake_stack.jpg",
+  image: "./mages/pancake_stack.jpg",
 },
 {
   id: "bf2",
@@ -573,7 +573,7 @@
   category: "Breakfast",
   price: 5.5,
   description: "Three-egg omelette with herbs and cheese.",
-  image: "./images/classic_omlette.jpg",
+  image: "./mages/classic_omlette.jpg",
 },
 {
   id: "bf3",
@@ -581,7 +581,7 @@
   category: "Breakfast",
   price: 6.75,
   description: "Toasted bread with smashed avocado and chili flakes.",
-  image: "./images/avocado_toast.jpg",
+  image: "./mages/avocado_toast.jpg",
 },
 {
   id: "bf4",
@@ -589,7 +589,7 @@
   category: "Breakfast",
   price: 5.0,
   description: "Stuffed Indian flatbread served with curd and pickle.",
-  image: "./images/aloo_paratha.jpg",
+  image: "./mages/aloo_paratha.jpg",
 },
 {
   id: "bf5",
@@ -597,7 +597,7 @@
   category: "Breakfast",
   price: 6.25,
   description: "Golden-brown toast soaked in egg and milk.",
-  image: "./images/french_toast.jpg",
+  image: "./mages/french_toast.jpg",
 },
 
 // 🌯 WRAPS
@@ -607,7 +607,7 @@
   category: "Wrap",
   price: 7.25,
   description: "Middle Eastern-style chicken wrap with garlic sauce.",
-  image: "./images/chicken_shawarma.jpg",
+  image: "./mages/chicken_shawarma.jpg",
 },
 {
   id: "wr2",
@@ -615,7 +615,7 @@
   category: "Wrap",
   price: 6.75,
   description: "Grilled paneer wrapped with veggies and chutney.",
-  image: "./images/chicken_shawarma.jpg",
+  image: "./mages/chicken_shawarma.jpg",
 },
 {
   id: "wr3",
@@ -623,7 +623,7 @@
   category: "Wrap",
   price: 6.5,
   description: "Chickpea patties with tahini sauce and veggies.",
-  image: "./images/falafel_roll.jpg",
+  image: "./mages/falafel_roll.jpg",
 },
 {
   id: "wr4",
@@ -631,7 +631,7 @@
   category: "Wrap",
   price: 5.99,
   description: "Indian-style roll stuffed with spiced veggies.",
-  image: "./images/veg_frankie.jpg",
+  image: "./mages/veg_frankie.jpg",
 },
 {
   id: "wr5",
@@ -639,7 +639,7 @@
   category: "Wrap",
   price: 7.5,
   description: "Grilled chicken in BBQ sauce rolled with cheese.",
-  image: "./images/chicken_shawarma.jpg",
+  image: "./mages/chicken_shawarma.jpg",
 },
 
 ];
